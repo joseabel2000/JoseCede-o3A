@@ -31,6 +31,7 @@ namespace AplicacionGasolinera
             cliente.imprimir();
             gasolina.imprimir();
             Console.ReadKey();
+
         }
     }
 }
